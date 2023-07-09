@@ -1,0 +1,316 @@
+15.194s: transact 1 entered the system
+15.194s: transact 1 loaded channel 1
+35.237s: transact 2 entered the system
+35.237s: transact 2 loaded channel 2
+44.208s: transact 1 freed channel 1
+57.517s: transact 3 entered the system
+57.517s: transact 3 loaded channel 1
+61.747s: transact 2 freed channel 2
+79.247s: transact 4 entered the system
+79.247s: transact 4 loaded channel 2
+81.188s: transact 3 freed channel 1
+86.317s: transact 5 entered the system
+86.317s: transact 5 loaded channel 1
+99.673s: transact 6 entered the system
+99.673s: transact 6 got in queue 1
+101.137s: transact 4 freed channel 2
+111.975s: transact 7 entered the system
+111.975s: transact 7 loaded channel 2
+120.179s: transact 5 freed channel 1
+120.179s: transact 6 loaded channel 1
+120.257s: transact 8 entered the system
+120.257s: transact 8 got in queue 1
+130.242s: transact 9 entered the system
+130.242s: transact 9 got in queue 2
+132.164s: transact 10 entered the system
+132.164s: transact 10 got in queue 1
+137.992s: transact 7 freed channel 2
+137.992s: transact 9 loaded channel 2
+145.272s: transact 6 freed channel 1
+145.272s: transact 8 loaded channel 1
+148.165s: transact 11 entered the system
+148.165s: transact 11 got in queue 2
+156.961s: transact 12 entered the system
+156.961s: transact 12 got in queue 1
+159.294s: transact 9 freed channel 2
+159.294s: transact 11 loaded channel 2
+159.459s: transact 8 freed channel 1
+159.459s: transact 10 loaded channel 1
+169.63s: transact 13 entered the system
+169.63s: transact 13 got in queue 2
+172.82s: transact 14 entered the system
+172.82s: transact 14 got in queue 1
+178.643s: transact 15 entered the system
+178.643s: transact 15 got in queue 2
+182.657s: transact 11 freed channel 2
+182.657s: transact 13 loaded channel 2
+184.559s: transact 16 entered the system
+184.559s: transact 16 got in queue 2
+192.737s: transact 10 freed channel 1
+192.737s: transact 12 loaded channel 1
+201.309s: transact 13 freed channel 2
+201.309s: transact 15 loaded channel 2
+205.36s: transact 17 entered the system
+205.36s: transact 17 got in queue 1
+209.832s: transact 18 entered the system
+209.832s: transact 18 got in queue 2
+211.78s: transact 19 entered the system
+211.78s: transact 19 got in queue 1
+216.95s: transact 20 entered the system
+216.95s: transact 20 got in queue 2
+219.134s: transact 12 freed channel 1
+219.134s: transact 14 loaded channel 1
+224.682s: transact 15 freed channel 2
+224.682s: transact 16 loaded channel 2
+240.667s: transact 21 entered the system
+240.667s: transact 21 got in queue 1
+248.472s: transact 22 entered the system
+248.472s: transact 22 got in queue 2
+251.784s: transact 16 freed channel 2
+251.784s: transact 18 loaded channel 2
+253.02s: transact 14 freed channel 1
+253.02s: transact 17 loaded channel 1
+262.857s: transact 23 entered the system
+262.857s: transact 23 got in queue 1
+267.924s: transact 17 freed channel 1
+267.924s: transact 19 loaded channel 1
+269.207s: transact 18 freed channel 2
+269.207s: transact 20 loaded channel 2
+273.073s: transact 24 entered the system
+273.073s: transact 24 got in queue 2
+295.578s: transact 25 entered the system
+295.578s: transact 25 got in queue 1
+296.684s: transact 26 entered the system
+296.684s: transact 26 got in queue 2
+298.178s: transact 19 freed channel 1
+298.178s: transact 21 loaded channel 1
+299.845s: transact 20 freed channel 2
+299.845s: transact 22 loaded channel 2
+306.958s: transact 27 entered the system
+306.958s: transact 27 got in queue 1
+319.019s: transact 28 entered the system
+319.019s: transact 28 got in queue 2
+321.343s: transact 21 freed channel 1
+321.343s: transact 23 loaded channel 1
+329.156s: transact 22 freed channel 2
+329.156s: transact 24 loaded channel 2
+330.647s: transact 29 entered the system
+330.647s: transact 29 got in queue 1
+334.432s: transact 23 freed channel 1
+334.432s: transact 25 loaded channel 1
+344.552s: transact 30 entered the system
+344.552s: transact 30 got in queue 1
+350.217s: transact 24 freed channel 2
+350.217s: transact 26 loaded channel 2
+350.839s: transact 25 freed channel 1
+350.839s: transact 27 loaded channel 1
+364.126s: transact 27 freed channel 1
+364.126s: transact 29 loaded channel 1
+368.273s: transact 31 entered the system
+368.273s: transact 31 got in queue 1
+373.361s: transact 26 freed channel 2
+373.361s: transact 28 loaded channel 2
+380.14s: transact 32 entered the system
+380.14s: transact 32 got in queue 2
+386.097s: transact 29 freed channel 1
+386.097s: transact 30 loaded channel 1
+393.675s: transact 33 entered the system
+393.675s: transact 33 got in queue 1
+398.93s: transact 34 entered the system
+398.93s: transact 34 got in queue 2
+400.841s: transact 28 freed channel 2
+400.841s: transact 32 loaded channel 2
+408.199s: transact 35 entered the system
+408.199s: transact 35 got in queue 2
+417.517s: transact 30 freed channel 1
+417.517s: transact 31 loaded channel 1
+424.896s: transact 36 entered the system
+424.896s: transact 36 got in queue 1
+427.436s: transact 32 freed channel 2
+427.436s: transact 34 loaded channel 2
+430.88s: transact 37 entered the system
+430.88s: transact 37 got in queue 2
+445.048s: transact 31 freed channel 1
+445.048s: transact 33 loaded channel 1
+446.582s: transact 34 freed channel 2
+446.582s: transact 35 loaded channel 2
+451.278s: transact 38 entered the system
+451.278s: transact 38 got in queue 1
+458.172s: transact 39 entered the system
+458.172s: transact 39 got in queue 2
+463.355s: transact 35 freed channel 2
+463.355s: transact 37 loaded channel 2
+476.693s: transact 33 freed channel 1
+476.693s: transact 36 loaded channel 1
+479.007s: transact 40 entered the system
+479.007s: transact 40 got in queue 1
+479.652s: transact 41 entered the system
+479.652s: transact 41 got in queue 2
+480.095s: transact 37 freed channel 2
+480.095s: transact 39 loaded channel 2
+501.311s: transact 42 entered the system
+501.311s: transact 42 got in queue 2
+501.372s: transact 43 entered the system
+501.372s: transact 43 got in queue 1
+504.261s: transact 36 freed channel 1
+504.261s: transact 38 loaded channel 1
+510.24s: transact 44 entered the system
+510.24s: transact 44 got in queue 1
+510.358s: transact 39 freed channel 2
+510.358s: transact 41 loaded channel 2
+517.451s: transact 38 freed channel 1
+517.451s: transact 40 loaded channel 1
+521.748s: transact 45 entered the system
+521.748s: transact 45 got in queue 2
+529.292s: transact 41 freed channel 2
+529.292s: transact 42 loaded channel 2
+541.675s: transact 46 entered the system
+541.675s: transact 46 got in queue 2
+546.562s: transact 40 freed channel 1
+546.562s: transact 43 loaded channel 1
+552.215s: transact 42 freed channel 2
+552.215s: transact 45 loaded channel 2
+555.316s: transact 47 entered the system
+555.316s: transact 47 got in queue 1
+562.46s: transact 48 entered the system
+562.46s: transact 48 got in queue 2
+572.748s: transact 49 entered the system
+572.748s: transact 49 got in queue 1
+574.589s: transact 45 freed channel 2
+574.589s: transact 46 loaded channel 2
+579.628s: transact 43 freed channel 1
+579.628s: transact 44 loaded channel 1
+593.088s: transact 50 entered the system
+593.088s: transact 50 got in queue 2
+599.927s: transact 51 entered the system
+599.927s: transact 51 got in queue 1
+605.1s: transact 46 freed channel 2
+605.1s: transact 48 loaded channel 2
+610.289s: transact 44 freed channel 1
+610.289s: transact 47 loaded channel 1
+612.238s: transact 52 entered the system
+612.238s: transact 52 got in queue 2
+615.663s: transact 53 entered the system
+615.663s: transact 53 got in queue 1
+632.326s: transact 47 freed channel 1
+632.326s: transact 49 loaded channel 1
+632.688s: transact 54 entered the system
+632.688s: transact 54 got in queue 1
+634.301s: transact 48 freed channel 2
+634.301s: transact 50 loaded channel 2
+642.53s: transact 55 entered the system
+642.53s: transact 55 got in queue 2
+645.718s: transact 49 freed channel 1
+645.718s: transact 51 loaded channel 1
+652.239s: transact 56 entered the system
+652.239s: transact 56 got in queue 1
+653.808s: transact 50 freed channel 2
+653.808s: transact 52 loaded channel 2
+658.97s: transact 51 freed channel 1
+658.97s: transact 53 loaded channel 1
+659.767s: transact 57 entered the system
+659.767s: transact 57 got in queue 2
+669.327s: transact 58 entered the system
+669.327s: transact 58 got in queue 1
+669.807s: transact 59 entered the system
+669.807s: transact 59 got in queue 2
+673.669s: transact 53 freed channel 1
+673.669s: transact 54 loaded channel 1
+674.184s: transact 52 freed channel 2
+674.184s: transact 55 loaded channel 2
+690.546s: transact 60 entered the system
+690.546s: transact 60 got in queue 1
+691.737s: transact 54 freed channel 1
+691.737s: transact 56 loaded channel 1
+696.24s: transact 61 entered the system
+696.24s: transact 61 got in queue 1
+701.38s: transact 55 freed channel 2
+701.38s: transact 57 loaded channel 2
+703.759s: transact 62 entered the system
+703.759s: transact 62 got in queue 2
+707.153s: transact 56 freed channel 1
+707.153s: transact 58 loaded channel 1
+715.938s: transact 63 entered the system
+715.938s: transact 63 got in queue 1
+727.841s: transact 64 entered the system
+727.841s: transact 64 got in queue 2
+731.175s: transact 57 freed channel 2
+731.175s: transact 59 loaded channel 2
+731.27s: transact 65 entered the system
+731.27s: transact 65 got in queue 2
+735.268s: transact 58 freed channel 1
+735.268s: transact 60 loaded channel 1
+745.053s: transact 66 entered the system
+745.053s: transact 66 got in queue 1
+757.234s: transact 59 freed channel 2
+757.234s: transact 62 loaded channel 2
+761.971s: transact 67 entered the system
+761.971s: transact 67 got in queue 2
+766.175s: transact 60 freed channel 1
+766.175s: transact 61 loaded channel 1
+776.778s: transact 62 freed channel 2
+776.778s: transact 64 loaded channel 2
+779.084s: transact 68 entered the system
+779.084s: transact 68 got in queue 1
+781.394s: transact 69 entered the system
+781.394s: transact 69 got in queue 2
+795.331s: transact 61 freed channel 1
+795.331s: transact 63 loaded channel 1
+803.013s: transact 70 entered the system
+803.013s: transact 70 got in queue 1
+803.944s: transact 64 freed channel 2
+803.944s: transact 65 loaded channel 2
+817.429s: transact 63 freed channel 1
+817.429s: transact 66 loaded channel 1
+824.212s: transact 71 entered the system
+824.212s: transact 71 got in queue 1
+828.677s: transact 65 freed channel 2
+828.677s: transact 67 loaded channel 2
+835.58s: transact 72 entered the system
+835.58s: transact 72 got in queue 2
+839.582s: transact 73 entered the system
+839.582s: transact 73 got in queue 2
+849.855s: transact 66 freed channel 1
+849.855s: transact 68 loaded channel 1
+857.679s: transact 67 freed channel 2
+857.679s: transact 69 loaded channel 2
+863.261s: transact 74 entered the system
+863.261s: transact 74 got in queue 1
+875.049s: transact 69 freed channel 2
+875.049s: transact 72 loaded channel 2
+879.41s: transact 68 freed channel 1
+879.41s: transact 70 loaded channel 1
+879.427s: transact 75 entered the system
+879.427s: transact 75 got in queue 2
+892.641s: transact 70 freed channel 1
+892.641s: transact 71 loaded channel 1
+893.665s: transact 76 entered the system
+893.665s: transact 76 got in queue 1
+902.346s: transact 72 freed channel 2
+902.346s: transact 73 loaded channel 2
+914.555s: transact 77 entered the system
+914.555s: transact 77 got in queue 2
+918.919s: transact 71 freed channel 1
+918.919s: transact 74 loaded channel 1
+919.591s: transact 78 entered the system
+919.591s: transact 78 got in queue 1
+924.556s: transact 73 freed channel 2
+924.556s: transact 75 loaded channel 2
+940.205s: transact 79 entered the system
+940.205s: transact 79 got in queue 2
+946.552s: transact 74 freed channel 1
+946.552s: transact 76 loaded channel 1
+955.019s: transact 75 freed channel 2
+955.019s: transact 77 loaded channel 2
+958.798s: transact 80 entered the system
+958.798s: transact 80 got in queue 1
+965.893s: transact 76 freed channel 1
+965.893s: transact 78 loaded channel 1
+981.466s: transact 77 freed channel 2
+981.466s: transact 79 loaded channel 2
+982.119s: transact 78 freed channel 1
+982.119s: transact 80 loaded channel 1
+982.442s: transact 81 entered the system
+982.442s: transact 81 got in queue 1
+998.798s: transact 82 entered the system
+998.798s: transact 82 got in queue 2
